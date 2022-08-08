@@ -1,0 +1,28 @@
+body{
+  background-color: black;
+  color:white;
+  
+}
+
+
+
+.container
+{ 
+  font-size: 500%;
+  position: relative;
+  top:20%;
+  left: 37%;
+  right: 50%;
+  
+}
+#b{
+  position: relative;
+  left:8.5%;
+  justify-content: space-around;
+}
+#lapdiv{
+    position: relative;
+    top: 50%;
+    overflow: auto;
+    text-align:justify;
+}
